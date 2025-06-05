@@ -10,6 +10,7 @@
 * **Backend**: Django, REST APIs
 * **Databases**: MySQL
 * **Cloud & Tools**: Git, Postman, Google Cloud Platform (GCP)
+* **Robotics**: Raspberry Pi
 
 ---
 
