@@ -5,9 +5,9 @@
 
 ### 💻 Technologies & Tools:
 
-* **Languages**: Python, C++, C#, JavaScript, HTML, CSS, LUA
 * **ML & AI**: TensorFlow, PyTorch, scikit-learn, LangChain, Pandas, Matplotlib
 * **Backend**: Django, REST APIs
+* **Languages**: Python, C++, C#, JavaScript
 * **Databases**: MySQL
 * **Cloud & Tools**: Git, Postman, Google Cloud Platform (GCP)
 * **Robotics**: Raspberry Pi
