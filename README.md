@@ -5,12 +5,12 @@
 
 ### 💻 Technologies & Tools:
 
-* **ML & AI**: TensorFlow, PyTorch, scikit-learn, LangChain, Pandas, Matplotlib
+* **ML & AI**: TensorFlow, scikit-learn, LangChain, NumPy, Pandas, Matplotlib, Folium
 * **Backend**: Django, REST APIs
-* **Languages**: Python, C++, C#, JavaScript
-* **Databases**: MySQL
-* **Cloud & Tools**: Git, Postman, Google Cloud Platform (GCP)
-* **Robotics**: Raspberry Pi
+* **Languages**: Python, C++, C#, JavaScript, HTML, CSS
+* **Databases**: SQL (Relational Database), MySQL
+* **Tools**: Git, Postman 
+* **Robotics**: Raspberry Pi OS
 
 ---
 
